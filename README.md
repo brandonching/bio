@@ -1,3 +1,3 @@
-# bio
+# About Me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonching)](https://github.com/anuraghazra/github-readme-stats)
+[![Brandon Ching's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonching&count_private=true&show_icons=true)]
